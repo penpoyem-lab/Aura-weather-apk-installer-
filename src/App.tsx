@@ -255,7 +255,6 @@ export default function App() {
           muted
           playsInline
           preload="auto"
-          crossOrigin="anonymous"
         />
 
         {/* Giant Word sitting BEHIND the bird via mix-blend-mode: darken */}
